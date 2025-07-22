@@ -18,7 +18,7 @@
 
 ```bash
 git clone https://github.com/ibulygin/pytest-selenium-example.git
-cd selenium-pytest-demo
+cd pytest-selenium-example
 ```
 
 ### 2. Создаем и активируем виртуальное окружение
