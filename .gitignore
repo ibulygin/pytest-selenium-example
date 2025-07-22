@@ -1,0 +1,28 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pyc
+
+# Virtual environment
+venv/
+env/
+.venv/
+
+# Pytest cache
+.pytest_cache/
+
+# IDEs
+.vscode/
+.idea/
+
+# Logs and temp files
+*.log
+*.tmp
+
+# Mac OS system files
+.DS_Store
+
+# ChromeDriver or other drivers, если они у тебя локально
+chromedriver
