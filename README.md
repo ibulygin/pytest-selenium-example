@@ -37,14 +37,7 @@ python -m venv venv
 .\venv\Scripts\Activate.ps1
 ```
 
-### 3. Устанавливаем зависимости
-
-```bash
-pip install --upgrade pip
-pip install -r requirements.txt
-```
-
-#### Если requirements.txt нет, установи вручную:
+### 3. Устанавливаем зависимости вручную
 
 ```bash
 pip install selenium pytest webdriver-manager
